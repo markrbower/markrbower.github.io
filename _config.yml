@@ -1,6 +1,6 @@
 name: Mark Bower, Su-u-u-per Ge-e-e-nius!
 markdown: kramdown
 theme: jekyll-theme-merlot
-permalink: /:categories/:year/:month/:title/
+permalink: /blog/:year/:month/:day/:title
 title: Mark R. Bower
 description: My Collection of Curiosities
